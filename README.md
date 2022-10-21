@@ -20,4 +20,4 @@ cases to test code with. If requirements are already laid bare, focusing on refi
 >How do I approach designing software?
 
 Decide what the software is for, and pick a stable design pattern to suit the needs of the user. As soon as a pattern is selected
-the small details can be tackled. 
+and scaffolded, the small details can be tackled iteratively over time.
